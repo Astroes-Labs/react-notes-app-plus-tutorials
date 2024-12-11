@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-login-sign-in-app/static/js/main.3d3beb08.js",
+    "index.html": "/react-login-sign-in-app/index.html",
+    "main.3d3beb08.js.map": "/react-login-sign-in-app/static/js/main.3d3beb08.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d3beb08.js"
+  ]
+}
